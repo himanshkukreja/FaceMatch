@@ -45,7 +45,7 @@ You can also use others images instead of bollywood actress
 Clone the repository
 
 ```bash
-git clone https://github.com/entbappy/Which-Bollywood-Celebrity-You-look-like.git
+git clone https://github.com/himanshkukreja/FaceMatch.git
 ```
 
 ## STEP 02: 
@@ -56,9 +56,6 @@ Create an environment
 conda create -n celebrity python=3.7 -y
 ```
 
-```windows terminal
-virtualenv venv
-```
 
 
 ## STEP 03: 
