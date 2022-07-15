@@ -31,11 +31,11 @@ This really performing good you can consider by seeing this result 😀
 
 <img src="demo/2.jpeg" alt="workflow" width="70%">
 
-<img src="demo/3.jpeg" alt="workflow" width="70%">
+<img src="demo/4.jpeg" alt="workflow" width="70%">
 
 The fun part is I  looked like Ranbir Kapoor 😄😁
 
-<img src="demo/4.jpeg" alt="workflow" width="70%">
+<img src="demo/3.jpeg" alt="workflow" width="70%">
 
 # STEPS to run this project:
 
